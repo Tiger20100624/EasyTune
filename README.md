@@ -11,7 +11,9 @@ QQ ： 1767099623
 
 ## 许可证
 
-Copyright (c) 2026 Tiger6
+copyright （c）2026 Tiger6
 
 本项目采用 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) 许可证。
 详情请查看 [LICENSE](LICENSE) 文件。
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
